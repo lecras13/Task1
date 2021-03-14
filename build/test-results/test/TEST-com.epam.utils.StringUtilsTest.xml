@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.utils.StringUtilsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-14T14:43:07" hostname="DESKTOP-EO3IQFG" time="0.015">
+  <properties/>
+  <testcase name="testIsPositiveNumberGiveFalse()" classname="com.epam.utils.StringUtilsTest" time="0.013"/>
+  <testcase name="testIsPositiveNumberGiveTrue()" classname="com.epam.utils.StringUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
