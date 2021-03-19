@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.epam.utils.StringUtilsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-14T16:39:56" hostname="DESKTOP-EO3IQFG" time="0.016">
+<testsuite name="com.epam.utils.StringUtilsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-14T18:27:30" hostname="DESKTOP-EO3IQFG" time="0.017">
   <properties/>
   <testcase name="testIsPositiveNumberGiveFalse()" classname="com.epam.utils.StringUtilsTest" time="0.015"/>
   <testcase name="testIsPositiveNumberGiveTrue()" classname="com.epam.utils.StringUtilsTest" time="0.001"/>
