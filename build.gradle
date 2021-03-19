@@ -30,11 +30,9 @@ publishing {
     }
 }
 
-
 repositories {
     mavenLocal()
     jcenter()
-
 }
 
 dependencies {
@@ -46,7 +44,6 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-
 
 tasks.named('jar') {
     manifest {
